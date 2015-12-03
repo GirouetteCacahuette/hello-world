@@ -1,7 +1,5 @@
 # I like Trains
 
-=====
-
 Because:
 * It's fast
 * It's cool
